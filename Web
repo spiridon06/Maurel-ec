@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAUREL'EC - Accueil</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f8f8f8;
+        }
+        header {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: red;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background: darkred;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 250px;
+            margin: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #222;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Électricité Pro</h1>
+        <p>Expert en installations électriques et dépannage</p>
+    </header>
+
+    <nav>
+        <a href="#savoir-faire">Savoir-faire</a>
+        <a href="#services">Services</a>
+        <a href="#realisations">Réalisations</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="savoir-faire">
+        <h2>Notre Savoir-Faire</h2>
+        <p>Fort de plusieurs années d'expérience, nous réalisons tous vos travaux électriques avec professionnalisme et sécurité.</p>
+    </section>
+
+    <section id="services">
+        <h2>Nos Services</h2>
+        <ul>
+            <li>Installation électrique complète</li>
+            <li>Mise aux normes</li>
+            <li>Dépannage rapide</li>
+            <li>Domotique et smart home</li>
+            <li>Rénovation et maintenance</li>
+        </ul>
+    </section>
+
+    <section id="realisations">
+        <h2>Nos Réalisations</h2>
+        <div class="gallery">
+            <img src="image1.jpg" alt="Projet 1">
+            <img src="image2.jpg" alt="Projet 2">
+            <img src="image3.jpg" alt="Projet 3">
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <p>Téléphone : 06 12 31 67 03</p>
+        <p>Email : maurelec.btp@gmail.com</p>
+        <p>Adresse : 123 Rue de l'Électricité, 75000 Paris</p>
+        <a href="mailto:maurelec.btp@gmail.com" class="btn">Envoyer un email</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 MAUREL'EC - Tous droits réservés</p>
+    </footer>
+
+</body>
+</html>
