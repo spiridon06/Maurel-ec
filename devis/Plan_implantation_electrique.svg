@@ -1,0 +1,503 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1310" viewBox="0 0 1500 1310" font-family="Arial, Helvetica, sans-serif">
+<rect width="1500" height="1310" fill="#ffffff"/>
+<text x="40" y="45" font-size="26" font-weight="bold" fill="#C00000">MAUREL'EC</text>
+<text x="40" y="75" font-size="17" font-weight="bold">Plan d'implantation électrique – Appartement T4 (97,57 m² + 2 balcons)</text>
+<text x="40" y="98" font-size="12" fill="#555">Appareillage Legrand Céliane with Netatmo – NF C 15-100 – Le numéro à côté de chaque symbole renvoie au circuit du tableau.</text>
+<text x="40" y="116" font-size="11" fill="#555" font-style="italic">Plan redessiné d'après le plan commercial, cotes approximatives – implantation indicative à valider sur place.</text>
+<rect x="274.6" y="163.6" width="499.79999999999995" height="80.24000000000001" fill="#F7F7F7" stroke="#888" stroke-width="1.5"/>
+<text x="524.5" y="157.6" font-size="12" text-anchor="middle" fill="#666" font-weight="bold">BALCON 9,08 m²</text>
+<rect x="60.4" y="1127.1599999999999" width="720.8" height="144.84000000000006" fill="#F7F7F7" stroke="#888" stroke-width="1.5"/>
+<text x="420.79999999999995" y="1264.0" font-size="12" text-anchor="middle" fill="#666" font-weight="bold">BALCON 21,74 m²</text>
+<rect x="492.2" y="704.2" width="278.79999999999995" height="404.59999999999997" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="492.2" y="262.2" width="129.20000000000002" height="251.60000000000002" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="492.2" y="541.0" width="129.20000000000002" height="136.0" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="281.4" y="541.0" width="51.0" height="285.59999999999997" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="645.2" y="258.8" width="95.20000000000002" height="95.19999999999999" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="186.2" y="700.8" width="74.80000000000001" height="61.200000000000024" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="284.79999999999995" y="262.2" width="180.20000000000002" height="251.60000000000002" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="70.6" y="853.8" width="187.0" height="251.60000000000008" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="284.79999999999995" y="853.8" width="180.20000000000002" height="251.60000000000008" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="352.79999999999995" y="700.8" width="115.60000000000001" height="129.20000000000002" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="67.2" y="700.8" width="98.6" height="129.20000000000002" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="274.6" y="252.0" width="200.6" height="272.0" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="482.0" y="252.0" width="149.60000000000002" height="272.0" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="638.4000000000001" y="252.0" width="108.79999999999998" height="108.80000000000001" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="342.6" y="530.8" width="132.59999999999997" height="40.80000000000004" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="482.0" y="530.8" width="149.60000000000002" height="156.40000000000003" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="274.6" y="530.8" width="64.59999999999998" height="306.0" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="176.0" y="775.5999999999999" width="98.6" height="61.19999999999996" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="346.0" y="626.0" width="129.19999999999996" height="61.200000000000024" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="346.0" y="694.0" width="129.19999999999996" height="142.79999999999998" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="60.4" y="694.0" width="112.19999999999999" height="142.79999999999998" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="179.39999999999998" y="694.0" width="88.39999999999999" height="74.79999999999998" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="60.4" y="843.5999999999999" width="207.39999999999998" height="272.0" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="274.6" y="843.5999999999999" width="200.6" height="272.0" fill="none" stroke="#111" stroke-width="5"/>
+<rect x="482.0" y="694.0" width="299.2" height="425.0" fill="none" stroke="#111" stroke-width="5"/>
+<text x="374.56" y="439.0" font-size="11" font-weight="bold" text-anchor="middle">CHAMBRE 1</text>
+<text x="374.56" y="453.0" font-size="11" text-anchor="middle" fill="#444">3,00 x 4,00</text>
+<text x="556.8" y="408.4" font-size="13" font-weight="bold" text-anchor="middle">CUISINE</text>
+<text x="556.8" y="422.4" font-size="11" text-anchor="middle" fill="#444">2,20 x 4,00</text>
+<text x="407.2" y="555.96" font-size="13" font-weight="bold" text-anchor="middle">PL.</text>
+<text x="577.1999999999999" y="639.6" font-size="13" font-weight="bold" text-anchor="middle">HALL</text>
+<text x="306.56" y="745.0" font-size="13" font-weight="bold" text-anchor="middle">DÉG.</text>
+<text x="414.0" y="649.8" font-size="13" font-weight="bold" text-anchor="middle">WC</text>
+<text x="414.0" y="775.5999999999999" font-size="11" font-weight="bold" text-anchor="middle">SDB 1 (BAINS)</text>
+<text x="116.16" y="792.5999999999999" font-size="13" font-weight="bold" text-anchor="middle">SDB 2</text>
+<text x="224.95999999999998" y="739.56" font-size="11" font-weight="bold" text-anchor="middle">DRESSING</text>
+<text x="163.76" y="1040.8" font-size="11" font-weight="bold" text-anchor="middle">CHAMBRE 2</text>
+<text x="163.76" y="1054.8" font-size="11" text-anchor="middle" fill="#444">3,00 x 4,00</text>
+<text x="374.56" y="1040.8" font-size="11" font-weight="bold" text-anchor="middle">CHAMBRE 3</text>
+<text x="374.56" y="1054.8" font-size="11" text-anchor="middle" fill="#444">3,00 x 4,00</text>
+<text x="631.6" y="966.0" font-size="13" font-weight="bold" text-anchor="middle">SÉJOUR</text>
+<text x="631.6" y="980.0" font-size="11" text-anchor="middle" fill="#444">4,40 x 6,25</text>
+<rect x="332.4" y="248.0" width="95.20000000000002" height="8" fill="#fff" stroke="#111" stroke-width="1"/>
+<line x1="332.4" y1="252.0" x2="427.6" y2="252.0" stroke="#111" stroke-width="1"/>
+<rect x="516.0" y="248.0" width="81.60000000000001" height="8" fill="#fff" stroke="#111" stroke-width="1"/>
+<line x1="516.0" y1="252.0" x2="597.6" y2="252.0" stroke="#111" stroke-width="1"/>
+<rect x="108.0" y="1111.6" width="108.8" height="8" fill="#fff" stroke="#111" stroke-width="1"/>
+<line x1="108.0" y1="1115.6" x2="216.79999999999998" y2="1115.6" stroke="#111" stroke-width="1"/>
+<rect x="325.6" y="1111.6" width="102.00000000000003" height="8" fill="#fff" stroke="#111" stroke-width="1"/>
+<line x1="325.6" y1="1115.6" x2="427.6" y2="1115.6" stroke="#111" stroke-width="1"/>
+<rect x="522.8" y="1115.0" width="95.19999999999996" height="8" fill="#fff" stroke="#111" stroke-width="1"/>
+<line x1="522.8" y1="1119.0" x2="618.0" y2="1119.0" stroke="#111" stroke-width="1"/>
+<rect x="665.6" y="1115.0" width="95.20000000000002" height="8" fill="#fff" stroke="#111" stroke-width="1"/>
+<line x1="665.6" y1="1119.0" x2="760.8000000000001" y2="1119.0" stroke="#111" stroke-width="1"/>
+<rect x="284.79999999999995" y="520.0" width="51.0" height="8" fill="#fff"/>
+<path d="M284.79999999999995,524.0 L284.79999999999995,473.0 A51.0,51.0 0 0,1 335.79999999999995,524.0" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="495.6" y="520.0" width="51.0" height="8" fill="#fff"/>
+<path d="M495.6,524.0 L495.6,473.0 A51.0,51.0 0 0,1 546.6,524.0" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="627.6" y="585.2" width="8" height="57.8" fill="#fff"/>
+<path d="M631.6,585.2 L573.8000000000001,585.2 A57.8,57.8 0 0,0 631.6,643.0" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="509.2" y="686.6" width="51.0" height="8" fill="#fff"/>
+<path d="M509.2,690.6 L509.2,741.6 A51.0,51.0 0 0,0 560.1999999999999,690.6" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="338.6" y="643.0" width="8" height="40.8" fill="#fff"/>
+<path d="M342.6,643.0 L383.40000000000003,643.0 A40.8,40.8 0 0,1 342.6,683.8" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="338.6" y="772.2" width="8" height="51.0" fill="#fff"/>
+<path d="M342.6,772.2 L393.6,772.2 A51.0,51.0 0 0,1 342.6,823.2" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="284.79999999999995" y="836.2" width="51.0" height="8" fill="#fff"/>
+<path d="M284.79999999999995,840.2 L284.79999999999995,891.2 A51.0,51.0 0 0,0 335.79999999999995,840.2" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="210.0" y="836.2" width="51.0" height="8" fill="#fff"/>
+<path d="M210.0,840.2 L210.0,891.2 A51.0,51.0 0 0,0 261.0,840.2" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="172.0" y="782.4000000000001" width="8" height="47.599999999999994" fill="#fff"/>
+<path d="M176.0,782.4000000000001 L128.4,782.4000000000001 A47.599999999999994,47.599999999999994 0 0,0 176.0,830.0" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="196.39999999999998" y="764.8" width="51.0" height="8" fill="#fff"/>
+<path d="M196.39999999999998,768.8 L196.39999999999998,717.8 A51.0,51.0 0 0,1 247.39999999999998,768.8" fill="none" stroke="#999" stroke-width="1"/>
+<rect x="652.0" y="248.0" width="47.599999999999994" height="8" fill="#fff"/>
+<path d="M652.0,252.0 L652.0,204.4 A47.599999999999994,47.599999999999994 0 0,1 699.5999999999999,252.0" fill="none" stroke="#999" stroke-width="1"/>
+<text x="706.4000000000001" y="622.6" font-size="11" fill="#555">ENTRÉE</text>
+<path d="M703.0,612.4 l-30,0 m8,-6 l-8,6 l8,6" stroke="#555" fill="none" stroke-width="2"/>
+<circle cx="577.1999999999999" cy="823.2" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M571.5999999999999,817.6 L582.8,828.8000000000001 M571.5999999999999,828.8000000000001 L582.8,817.6" stroke="#E08A00" stroke-width="2"/>
+<text x="587.1999999999999" y="816.2" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="692.8000000000001" cy="823.2" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M687.2,817.6 L698.4000000000001,828.8000000000001 M687.2,828.8000000000001 L698.4000000000001,817.6" stroke="#E08A00" stroke-width="2"/>
+<text x="702.8000000000001" y="816.2" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="631.6" cy="1040.8" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M626.0,1035.2 L637.2,1046.3999999999999 M626.0,1046.3999999999999 L637.2,1035.2" stroke="#E08A00" stroke-width="2"/>
+<text x="641.6" y="1033.8" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="533.0" cy="303.0" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M527.4,297.4 L538.6,308.6 M527.4,308.6 L538.6,297.4" stroke="#E08A00" stroke-width="2"/>
+<text x="525.0" y="325.0" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="533.0" cy="442.4" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M527.4,436.79999999999995 L538.6,448.0 M527.4,448.0 L538.6,436.79999999999995" stroke="#E08A00" stroke-width="2"/>
+<text x="525.0" y="464.4" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="553.4" cy="588.6" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M547.8,583.0 L559.0,594.2 M547.8,594.2 L559.0,583.0" stroke="#E08A00" stroke-width="2"/>
+<text x="563.4" y="581.6" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="374.56" cy="360.8" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M368.96,355.2 L380.16,366.40000000000003 M368.96,366.40000000000003 L380.16,355.2" stroke="#E08A00" stroke-width="2"/>
+<text x="384.56" y="353.8" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="163.76" cy="972.8" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M158.16,967.1999999999999 L169.35999999999999,978.4 M158.16,978.4 L169.35999999999999,967.1999999999999" stroke="#E08A00" stroke-width="2"/>
+<text x="173.76" y="965.8" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="374.56" cy="972.8" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M368.96,967.1999999999999 L380.16,978.4 M368.96,978.4 L380.16,967.1999999999999" stroke="#E08A00" stroke-width="2"/>
+<text x="384.56" y="965.8" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="306.56" cy="605.6" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M300.96,600.0 L312.16,611.2 M300.96,611.2 L312.16,600.0" stroke="#E08A00" stroke-width="2"/>
+<text x="316.56" y="598.6" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="306.56" cy="796.0" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M300.96,790.4 L312.16,801.6 M300.96,801.6 L312.16,790.4" stroke="#E08A00" stroke-width="2"/>
+<text x="316.56" y="789.0" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="199.79999999999998" cy="715.76" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M194.2,710.16 L205.39999999999998,721.36 M194.2,721.36 L205.39999999999998,710.16" stroke="#E08A00" stroke-width="2"/>
+<text x="195.79999999999998" y="735.76" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="410.6" cy="738.2" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M405.0,732.6 L416.20000000000005,743.8000000000001 M405.0,743.8000000000001 L416.20000000000005,732.6" stroke="#E08A00" stroke-width="2"/>
+<text x="420.6" y="731.2" font-size="10" font-weight="bold" fill="#E08A00">9</text>
+<circle cx="116.16" cy="738.2" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M110.56,732.6 L121.75999999999999,743.8000000000001 M110.56,743.8000000000001 L121.75999999999999,732.6" stroke="#E08A00" stroke-width="2"/>
+<text x="126.16" y="731.2" font-size="10" font-weight="bold" fill="#E08A00">9</text>
+<circle cx="458.2" cy="645.04" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M452.59999999999997,639.4399999999999 L463.8,650.64 M452.59999999999997,650.64 L463.8,639.4399999999999" stroke="#E08A00" stroke-width="2"/>
+<text x="452.2" y="667.04" font-size="10" font-weight="bold" fill="#E08A00">9</text>
+<circle cx="703.0" cy="300.96" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M697.4,295.35999999999996 L708.6,306.56 M697.4,306.56 L708.6,295.35999999999996" stroke="#E08A00" stroke-width="2"/>
+<text x="699.0" y="322.96" font-size="10" font-weight="bold" fill="#E08A00">9</text>
+<circle cx="471.79999999999995" cy="230.24" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M466.19999999999993,224.64000000000001 L477.4,235.84 M466.19999999999993,235.84 L477.4,224.64000000000001" stroke="#E08A00" stroke-width="2"/>
+<text x="481.79999999999995" y="223.24" font-size="10" font-weight="bold" fill="#E08A00">10</text>
+<circle cx="271.2" cy="1144.1599999999999" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M265.59999999999997,1138.56 L276.8,1149.7599999999998 M265.59999999999997,1149.7599999999998 L276.8,1138.56" stroke="#E08A00" stroke-width="2"/>
+<text x="281.2" y="1137.1599999999999" font-size="10" font-weight="bold" fill="#E08A00">10</text>
+<circle cx="641.8000000000001" cy="1144.1599999999999" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M636.2,1138.56 L647.4000000000001,1149.7599999999998 M636.2,1149.7599999999998 L647.4000000000001,1138.56" stroke="#E08A00" stroke-width="2"/>
+<text x="651.8000000000001" y="1137.1599999999999" font-size="10" font-weight="bold" fill="#E08A00">10</text>
+<rect x="487.44" y="836.8" width="21.76" height="176.8" fill="#E08A00" fill-opacity="0.15" stroke="#E08A00" stroke-width="1.5" stroke-dasharray="6 3"/>
+<text x="517.3599999999999" y="898.0" font-size="10" fill="#E08A00" font-weight="bold">BIBLIOTHÈQUE (1)</text>
+<text x="517.3599999999999" y="910.0" font-size="9" fill="#E08A00">spots OU ruban LED</text>
+<text x="517.3599999999999" y="921.0" font-size="9" fill="#E08A00">emplacement à définir</text>
+<circle cx="492.2" cy="816.4000000000001" r="4.5" fill="#E08A00"/><line x1="492.2" y1="816.4000000000001" x2="500.2" y2="808.4000000000001" stroke="#E08A00" stroke-width="2"/>
+<text x="499.2" y="810.4000000000001" font-size="10" font-weight="bold" fill="#E08A00">1 var.</text>
+<circle cx="519.4" cy="708.9599999999999" r="4.5" fill="#E08A00"/><line x1="519.4" y1="708.9599999999999" x2="527.4" y2="700.9599999999999" stroke="#E08A00" stroke-width="2"/>
+<text x="521.4" y="726.9599999999999" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="536.4" cy="708.9599999999999" r="4.5" fill="#E08A00"/><line x1="536.4" y1="708.9599999999999" x2="544.4" y2="700.9599999999999" stroke="#E08A00" stroke-width="2"/>
+<circle cx="495.6" cy="509.03999999999996" r="4.5" fill="#E08A00"/><line x1="495.6" y1="509.03999999999996" x2="503.6" y2="501.03999999999996" stroke="#E08A00" stroke-width="2"/>
+<text x="495.6" y="499.03999999999996" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="510.56" cy="509.03999999999996" r="4.5" fill="#E08A00"/><line x1="510.56" y1="509.03999999999996" x2="518.56" y2="501.03999999999996" stroke="#E08A00" stroke-width="2"/>
+<circle cx="623.44" cy="568.2" r="4.5" fill="#E08A00"/><line x1="623.44" y1="568.2" x2="631.44" y2="560.2" stroke="#E08A00" stroke-width="2"/>
+<text x="607.44" y="572.2" font-size="10" font-weight="bold" fill="#E08A00">1</text>
+<circle cx="288.2" cy="509.03999999999996" r="4.5" fill="#E08A00"/><line x1="288.2" y1="509.03999999999996" x2="296.2" y2="501.03999999999996" stroke="#E08A00" stroke-width="2"/>
+<text x="295.2" y="503.03999999999996" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="254.2" cy="860.5999999999999" r="4.5" fill="#E08A00"/><line x1="254.2" y1="860.5999999999999" x2="262.2" y2="852.5999999999999" stroke="#E08A00" stroke-width="2"/>
+<text x="236.2" y="864.5999999999999" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="288.2" cy="860.5999999999999" r="4.5" fill="#E08A00"/><line x1="288.2" y1="860.5999999999999" x2="296.2" y2="852.5999999999999" stroke="#E08A00" stroke-width="2"/>
+<text x="295.2" y="854.5999999999999" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="284.79999999999995" cy="544.4" r="4.5" fill="#E08A00"/><line x1="284.79999999999995" y1="544.4" x2="292.79999999999995" y2="536.4" stroke="#E08A00" stroke-width="2"/>
+<text x="290.79999999999995" y="556.4" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="258.96" cy="785.8" r="4.5" fill="#E08A00"/><line x1="258.96" y1="785.8" x2="266.96" y2="777.8" stroke="#E08A00" stroke-width="2"/>
+<text x="242.95999999999998" y="797.8" font-size="10" font-weight="bold" fill="#E08A00">2</text>
+<circle cx="358.24" cy="708.9599999999999" r="4.5" fill="#E08A00"/><line x1="358.24" y1="708.9599999999999" x2="366.24" y2="700.9599999999999" stroke="#E08A00" stroke-width="2"/>
+<text x="365.24" y="702.9599999999999" font-size="10" font-weight="bold" fill="#E08A00">9</text>
+<circle cx="162.4" cy="789.2" r="4.5" fill="#E08A00"/><line x1="162.4" y1="789.2" x2="170.4" y2="781.2" stroke="#E08A00" stroke-width="2"/>
+<text x="144.4" y="787.2" font-size="10" font-weight="bold" fill="#E08A00">9</text>
+<circle cx="354.84" cy="632.8" r="4.5" fill="#E08A00"/><line x1="354.84" y1="632.8" x2="362.84" y2="624.8" stroke="#E08A00" stroke-width="2"/>
+<text x="361.84" y="644.8" font-size="10" font-weight="bold" fill="#E08A00">9</text>
+<circle cx="740.4000000000001" cy="269.0" r="4.5" fill="#E08A00"/><line x1="740.4000000000001" y1="269.0" x2="748.4000000000001" y2="261.0" stroke="#E08A00" stroke-width="2"/>
+<text x="720.4000000000001" y="273.0" font-size="10" font-weight="bold" fill="#E08A00">9</text>
+<circle cx="492.2" cy="275.8" r="4.5" fill="#E08A00"/><line x1="492.2" y1="275.8" x2="500.2" y2="267.8" stroke="#E08A00" stroke-width="2"/>
+<text x="498.2" y="289.8" font-size="10" font-weight="bold" fill="#E08A00">10/13</text>
+<circle cx="767.6" cy="1095.2" r="4.5" fill="#E08A00"/><line x1="767.6" y1="1095.2" x2="775.6" y2="1087.2" stroke="#E08A00" stroke-width="2"/>
+<text x="727.6" y="1095.2" font-size="10" font-weight="bold" fill="#E08A00">10/13</text>
+<rect x="446.4" y="308.2" width="10" height="10" transform="rotate(45 451.4 313.2)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<text x="459.4" y="317.2" font-size="9" fill="#E08A00">lit</text>
+<rect x="79.19999999999999" y="886.2" width="10" height="10" transform="rotate(45 84.19999999999999 891.2)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<text x="92.19999999999999" y="895.2" font-size="9" fill="#E08A00">lit</text>
+<rect x="446.4" y="886.2" width="10" height="10" transform="rotate(45 451.4 891.2)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<text x="459.4" y="895.2" font-size="9" fill="#E08A00">lit</text>
+<rect x="701.4000000000001" y="706.0" width="10" height="10" transform="rotate(45 706.4000000000001 711.0)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<rect x="283.2" y="814.8" width="10" height="10" transform="rotate(45 288.2 819.8)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<rect x="589.2" y="542.8" width="10" height="10" transform="rotate(45 594.2 547.8)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<text x="602.2" y="551.8" font-size="9" fill="#E08A00">D/A</text>
+<rect x="446.4" y="342.2" width="10" height="10" transform="rotate(45 451.4 347.2)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<text x="459.4" y="351.2" font-size="9" fill="#E08A00">L/C</text>
+<circle cx="490.84" cy="748.4000000000001" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="484.84" y1="748.4000000000001" x2="496.84" y2="748.4000000000001" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="498.84" y="742.4000000000001" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
+<circle cx="490.84" cy="1074.8" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="484.84" y1="1074.8" x2="496.84" y2="1074.8" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="498.84" y="1068.8" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
+<circle cx="577.1999999999999" cy="1110.1599999999999" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="571.1999999999999" y1="1110.1599999999999" x2="583.1999999999999" y2="1110.1599999999999" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="585.1999999999999" y="1104.1599999999999" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
+<circle cx="772.3600000000001" cy="1020.4000000000001" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="766.3600000000001" y1="1020.4000000000001" x2="778.3600000000001" y2="1020.4000000000001" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="780.3600000000001" y="1014.4000000000001" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
+<circle cx="772.3600000000001" cy="884.4000000000001" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="766.3600000000001" y1="884.4000000000001" x2="778.3600000000001" y2="884.4000000000001" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="780.3600000000001" y="878.4000000000001" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
+<circle cx="772.3600000000001" cy="741.5999999999999" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="766.3600000000001" y1="741.5999999999999" x2="778.3600000000001" y2="741.5999999999999" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="780.3600000000001" y="735.5999999999999" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
+<circle cx="658.8000000000001" cy="702.8399999999999" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="652.8000000000001" y1="702.8399999999999" x2="664.8000000000001" y2="702.8399999999999" stroke="#fff" stroke-width="1.5"/>
+<text x="666.8000000000001" y="696.8399999999999" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
+<circle cx="713.2" cy="1110.1599999999999" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="707.2" y1="1110.1599999999999" x2="719.2" y2="1110.1599999999999" stroke="#fff" stroke-width="1.5"/>
+<text x="721.2" y="1104.1599999999999" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
+<circle cx="283.43999999999994" cy="306.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="277.43999999999994" y1="306.4" x2="289.43999999999994" y2="306.4" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="291.43999999999994" y="300.4" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
+<circle cx="283.43999999999994" cy="462.79999999999995" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="277.43999999999994" y1="462.79999999999995" x2="289.43999999999994" y2="462.79999999999995" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="291.43999999999994" y="456.79999999999995" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
+<circle cx="466.35999999999996" cy="483.20000000000005" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="460.35999999999996" y1="483.20000000000005" x2="472.35999999999996" y2="483.20000000000005" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="474.35999999999996" y="477.20000000000005" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
+<circle cx="466.35999999999996" cy="275.8" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="460.35999999999996" y1="275.8" x2="472.35999999999996" y2="275.8" stroke="#fff" stroke-width="1.5"/>
+<text x="448.35999999999996" y="287.8" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
+<circle cx="69.24" cy="1040.8" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="63.239999999999995" y1="1040.8" x2="75.24" y2="1040.8" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="77.24" y="1034.8" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
+<circle cx="258.96" cy="1054.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="252.95999999999998" y1="1054.4" x2="264.96" y2="1054.4" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="266.96" y="1048.4" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
+<circle cx="128.4" cy="852.44" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="122.4" y1="852.44" x2="134.4" y2="852.44" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="136.4" y="846.44" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
+<circle cx="69.24" cy="928.5999999999999" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="63.239999999999995" y1="928.5999999999999" x2="75.24" y2="928.5999999999999" stroke="#fff" stroke-width="1.5"/>
+<text x="77.24" y="922.5999999999999" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
+<circle cx="283.43999999999994" cy="932.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="277.43999999999994" y1="932.0" x2="289.43999999999994" y2="932.0" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="291.43999999999994" y="926.0" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
+<circle cx="283.43999999999994" cy="1068.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="277.43999999999994" y1="1068.0" x2="289.43999999999994" y2="1068.0" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="291.43999999999994" y="1062.0" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
+<circle cx="466.35999999999996" cy="1054.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="460.35999999999996" y1="1054.4" x2="472.35999999999996" y2="1054.4" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="474.35999999999996" y="1048.4" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
+<circle cx="466.35999999999996" cy="945.5999999999999" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="460.35999999999996" y1="945.5999999999999" x2="472.35999999999996" y2="945.5999999999999" stroke="#fff" stroke-width="1.5"/>
+<text x="446.35999999999996" y="945.5999999999999" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
+<circle cx="623.44" cy="544.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="617.44" y1="544.4" x2="629.44" y2="544.4" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="633.44" y="548.4" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
+<circle cx="330.36" cy="694.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="324.36" y1="694.0" x2="336.36" y2="694.0" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="312.36" y="688.0" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
+<circle cx="259.64" cy="756.56" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="253.64" y1="756.56" x2="265.64" y2="756.56" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="241.64" y="760.56" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
+<circle cx="466.35999999999996" cy="728.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="460.35999999999996" y1="728.0" x2="472.35999999999996" y2="728.0" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="446.35999999999996" y="722.0" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
+<circle cx="466.35999999999996" cy="802.8" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="460.35999999999996" y1="802.8" x2="472.35999999999996" y2="802.8" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="446.35999999999996" y="796.8" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
+<circle cx="69.24" cy="724.5999999999999" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="63.239999999999995" y1="724.5999999999999" x2="75.24" y2="724.5999999999999" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="77.24" y="718.5999999999999" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
+<circle cx="162.4" cy="826.5999999999999" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="156.4" y1="826.5999999999999" x2="168.4" y2="826.5999999999999" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="142.4" y="820.5999999999999" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
+<circle cx="738.3600000000001" cy="306.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="732.3600000000001" y1="306.4" x2="744.3600000000001" y2="306.4" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="718.3600000000001" y="300.4" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
+<circle cx="622.76" cy="371.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="616.76" y1="371.0" x2="628.76" y2="371.0" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="634.76" y="375.0" font-size="10" font-weight="bold" fill="#1F5FBF">17</text>
+<circle cx="622.76" cy="408.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="616.76" y1="408.4" x2="628.76" y2="408.4" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="634.76" y="412.4" font-size="10" font-weight="bold" fill="#1F5FBF">17</text>
+<circle cx="622.76" cy="445.79999999999995" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="616.76" y1="445.79999999999995" x2="628.76" y2="445.79999999999995" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="634.76" y="449.79999999999995" font-size="10" font-weight="bold" fill="#1F5FBF">17</text>
+<circle cx="622.76" cy="483.20000000000005" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="616.76" y1="483.20000000000005" x2="628.76" y2="483.20000000000005" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="634.76" y="487.20000000000005" font-size="10" font-weight="bold" fill="#1F5FBF">17</text>
+<circle cx="490.84" cy="323.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="484.84" y1="323.4" x2="496.84" y2="323.4" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="498.84" y="317.4" font-size="10" font-weight="bold" fill="#1F5FBF">17</text>
+<circle cx="490.84" cy="411.8" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="484.84" y1="411.8" x2="496.84" y2="411.8" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="498.84" y="405.8" font-size="10" font-weight="bold" fill="#1F5FBF">17</text>
+<text x="499.0" y="425.8" font-size="9" fill="#1F5FBF">frigo</text>
+<path d="M484.84,1025.4 L496.84,1025.4 L490.84,1014.4000000000001 Z" fill="#757575"/>
+<path d="M766.3600000000001,943.8 L778.3600000000001,943.8 L772.3600000000001,932.8 Z" fill="#757575"/>
+<path d="M277.43999999999994,393.0 L289.43999999999994,393.0 L283.43999999999994,382.0 Z" fill="#757575"/>
+<path d="M63.239999999999995,971.0 L75.24,971.0 L69.24,960.0 Z" fill="#757575"/>
+<path d="M460.35999999999996,1018.5999999999999 L472.35999999999996,1018.5999999999999 L466.35999999999996,1007.5999999999999 Z" fill="#757575"/>
+<path d="M484.84,369.2 L496.84,369.2 L490.84,358.2 Z" fill="#757575"/>
+<rect x="568.4000000000001" y="274.6" width="38" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="587.4000000000001" y="286.6" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">LV 19</text>
+<rect x="559.4000000000001" y="306.56" width="56" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="587.4000000000001" y="318.56" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">F.EAU 16</text>
+<rect x="559.4000000000001" y="349.4" width="56" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="587.4000000000001" y="361.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">HOTTE 22</text>
+<rect x="556.4000000000001" y="380.0" width="62" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="587.4000000000001" y="392.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">PLAQUE 24</text>
+<rect x="562.4000000000001" y="478.6" width="50" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="587.4000000000001" y="490.6" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">FOUR 18</text>
+<rect x="643.2" y="263.04" width="38" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="662.2" y="275.04" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">LL 25</text>
+<rect x="643.2" y="295.0" width="38" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="662.2" y="307.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">SL 21</text>
+<rect x="643.2" y="329.0" width="38" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="662.2" y="341.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">CE 23</text>
+<rect x="687.4000000000001" y="332.4" width="38" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="706.4000000000001" y="344.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">CG 20</text>
+<text x="754.0" y="292.8" font-size="12" font-weight="bold">BUANDERIE</text>
+<text x="754.0" y="305.8" font-size="10" fill="#444">2,56 m²</text>
+<text x="754.0" y="319.8" font-size="9" fill="#7B2CBF">LL lave-linge</text>
+<text x="754.0" y="330.8" font-size="9" fill="#7B2CBF">SL sèche-linge</text>
+<text x="754.0" y="341.8" font-size="9" fill="#7B2CBF">CG congélateur</text>
+<text x="754.0" y="352.8" font-size="9" fill="#7B2CBF">CE cumulus</text>
+<rect x="518.2" y="539.8" width="50" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="543.2" y="551.8" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">F.AIR 8</text>
+<rect x="390.6" y="665.6" width="74" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="427.6" y="677.6" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">PORTE WC 14</text>
+<rect x="484.72" y="564.8" width="30.6" height="81.6" fill="#222" stroke="#000"/>
+<text x="500.35999999999996" y="605.6" font-size="9" fill="#fff" text-anchor="middle" font-weight="bold">TGBT</text>
+<text x="500.35999999999996" y="616.6" font-size="8" fill="#fff" text-anchor="middle">GTL</text>
+<text x="500.35999999999996" y="627.6" font-size="8" fill="#fff" text-anchor="middle">+COM</text>
+<rect x="364.0" y="218.16000000000003" width="32" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="380.0" y="230.16000000000003" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">VR 5</text>
+<rect x="540.8000000000001" y="218.16000000000003" width="32" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="556.8000000000001" y="230.16000000000003" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">VR 5</text>
+<rect x="146.4" y="1128.0" width="32" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="162.4" y="1140.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">VR 5</text>
+<rect x="360.6" y="1128.0" width="32" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="376.6" y="1140.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">VR 5</text>
+<rect x="554.4" y="1131.4" width="32" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="570.4" y="1143.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">VR 5</text>
+<rect x="697.2000000000002" y="1131.4" width="32" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="713.2000000000002" y="1143.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">VR 5</text>
+<rect x="545.4" y="1168.8" width="50" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="570.4" y="1180.8" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">STORE 6</text>
+<rect x="484.2" y="179.4" width="50" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="509.2" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">STORE 6</text>
+<rect x="725.6" y="794.8" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="750.6" y="806.8" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM 26</text>
+<rect x="349.56" y="288.2" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="374.56" y="300.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM 27</text>
+<rect x="76.19999999999999" y="1080.4" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="101.19999999999999" y="1092.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM 28</text>
+<rect x="409.4" y="1080.4" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="434.4" y="1092.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM 29</text>
+<rect x="117.0" y="1223.2" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="142.0" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">UE clim</text>
+<rect x="239.39999999999998" y="1223.2" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="264.4" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">UE clim</text>
+<rect x="361.79999999999995" y="1223.2" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="386.79999999999995" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">UE clim</text>
+<rect x="701.8000000000001" y="179.4" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="726.8000000000001" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">UE clim</text>
+<circle cx="482.0" cy="1139.4" r="6" fill="#fff" stroke="#5D4037" stroke-width="2"/>
+<line x1="476.0" y1="1139.4" x2="488.0" y2="1139.4" stroke="#5D4037" stroke-width="1.5"/>
+<text x="490.0" y="1133.4" font-size="10" font-weight="bold" fill="#5D4037">13</text>
+<circle cx="621.4000000000001" cy="230.24" r="6" fill="#fff" stroke="#5D4037" stroke-width="2"/>
+<line x1="615.4000000000001" y1="230.24" x2="627.4000000000001" y2="230.24" stroke="#5D4037" stroke-width="1.5"/>
+<text x="629.4000000000001" y="224.24" font-size="10" font-weight="bold" fill="#5D4037">13</text>
+<rect x="508.4" y="1223.2" width="56" height="16" rx="2" fill="#fff" stroke="#5D4037" stroke-width="1.6"/>
+<text x="536.4" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#5D4037">BRUMI 13</text>
+<rect x="618.0" y="1223.2" width="68" height="16" rx="2" fill="#fff" stroke="#5D4037" stroke-width="1.6"/>
+<text x="652.0" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#5D4037">VENTILO 13</text>
+<rect x="294.20000000000005" y="179.4" width="56" height="16" rx="2" fill="#fff" stroke="#5D4037" stroke-width="1.6"/>
+<text x="322.20000000000005" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#5D4037">BRUMI 13</text>
+<rect x="380.0" y="179.4" width="68" height="16" rx="2" fill="#fff" stroke="#5D4037" stroke-width="1.6"/>
+<text x="414.0" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#5D4037">VENTILO 13</text>
+<rect x="558.1999999999999" y="720.0" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="577.1999999999999" y="732.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 30</text>
+<rect x="483.4" y="454.79999999999995" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="502.4" y="466.79999999999995" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 31</text>
+<rect x="299.79999999999995" y="553.4" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="318.79999999999995" y="565.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 32</text>
+<rect x="226.36" y="703.0" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="245.36" y="715.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 33</text>
+<rect x="282.79999999999995" y="471.79999999999995" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="301.79999999999995" y="483.79999999999995" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 34</text>
+<rect x="214.79999999999998" y="924.0" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="233.79999999999998" y="936.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 35</text>
+<rect x="354.2" y="866.2" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="373.2" y="878.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 36</text>
+<rect x="350.79999999999995" y="730.2" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="369.79999999999995" y="742.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 37</text>
+<rect x="129.8" y="706.4000000000001" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="148.8" y="718.4000000000001" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 38</text>
+<rect x="563.8" y="662.2" width="20" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="573.8" y="674.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">DF</text>
+<rect x="296.56" y="641.8" width="20" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="306.56" y="653.8" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">DF</text>
+<rect x="621.6" y="903.5999999999999" width="20" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="631.6" y="915.5999999999999" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">DF</text>
+<rect x="582.4000000000001" y="662.2" width="44" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="604.4000000000001" y="674.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM 15</text>
+<rect x="513.04" y="662.2" width="44" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="535.04" y="674.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">SIR 15</text>
+<rect x="706.4000000000001" y="1168.8" width="68" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="740.4000000000001" y="1180.8" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM ext 15</text>
+<rect x="577.2" y="179.4" width="68" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="611.2" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM ext 15</text>
+<text x="638.4000000000001" y="578.4" font-size="9" fill="#222222">DO</text>
+<rect x="900" y="125" width="575" height="1150" fill="#FAFAFA" stroke="#ccc"/>
+<text x="915" y="150" font-size="15" font-weight="bold">LÉGENDE</text>
+<circle cx="927.0" cy="174.0" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<path d="M921.4,168.4 L932.6,179.6 M921.4,179.6 L932.6,168.4" stroke="#E08A00" stroke-width="2"/>
+<text x="937.0" y="167.0" font-size="10" font-weight="bold" fill="#E08A00"></text>
+<text x="955" y="178" font-size="11.5">Point lumineux DCL</text>
+<circle cx="927.0" cy="196.0" r="4.5" fill="#E08A00"/><line x1="927.0" y1="196.0" x2="935.0" y2="188.0" stroke="#E08A00" stroke-width="2"/>
+<text x="955" y="200" font-size="11.5">Interrupteur connecté Céliane with Netatmo (10/13 = cdes balcon)</text>
+<rect x="922.0" y="213.0" width="10" height="10" transform="rotate(45 927.0 218.0)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<text x="955" y="222" font-size="11.5">Commande sans fil (lit, D/A = Départ/Arrivée + volets, L/C = Lever/Coucher)</text>
+<circle cx="927.0" cy="240.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="921.0" y1="240.0" x2="933.0" y2="240.0" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="935.0" y="234.0" font-size="10" font-weight="bold" fill="#1F5FBF"></text>
+<text x="955" y="244" font-size="11.5">Prise 16 A 2P+T Céliane</text>
+<circle cx="927.0" cy="262.0" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="921.0" y1="262.0" x2="933.0" y2="262.0" stroke="#fff" stroke-width="1.5"/>
+<text x="935.0" y="256.0" font-size="10" font-weight="bold" fill="#1F5FBF"></text>
+<text x="955" y="266" font-size="11.5">Prise connectée Céliane with Netatmo</text>
+<circle cx="927.0" cy="284.0" r="6" fill="#fff" stroke="#5D4037" stroke-width="2"/>
+<line x1="921.0" y1="284.0" x2="933.0" y2="284.0" stroke="#5D4037" stroke-width="1.5"/>
+<text x="935.0" y="278.0" font-size="10" font-weight="bold" fill="#5D4037"></text>
+<text x="955" y="288" font-size="11.5">Prise étanche Plexo IP55 (balcons)</text>
+<path d="M921.0,311.0 L933.0,311.0 L927.0,300.0 Z" fill="#757575"/>
+<text x="955" y="310" font-size="11.5">Prise RJ45 grade 3TV</text>
+<rect x="927.2" y="320.0" width="20" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
+<text x="937.2" y="332.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">LV</text>
+<text x="955" y="332" font-size="11.5">Prise spécialisée / sortie de câble</text>
+<rect x="927.2" y="342.0" width="20" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
+<text x="937.2" y="354.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">VR</text>
+<text x="955" y="354" font-size="11.5">Volet roulant / store connecté (alim + cde Céliane)</text>
+<rect x="924.6" y="364.0" width="32" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="940.6" y="376.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM</text>
+<text x="955" y="376" font-size="11.5">Clim réversible (UE = unité extérieure)</text>
+<rect x="924.8000000000001" y="386.0" width="18" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
+<text x="933.8000000000001" y="398.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th</text>
+<text x="955" y="398" font-size="11.5">Thermostat connecté plancher chauffant</text>
+<rect x="915" y="409" width="24" height="14" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-dasharray="5 4"/>
+<text x="955" y="420" font-size="11.5">Zone de plancher chauffant électrique</text>
+<rect x="923.8000000000001" y="430.0" width="20" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="933.8000000000001" y="442.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">DF</text>
+<text x="955" y="442" font-size="11.5">Détecteur de fumée connecté (pile)</text>
+<rect x="927.6" y="452.0" width="26" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="940.6" y="464.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM</text>
+<text x="955" y="464" font-size="11.5">Caméra / SIR = sirène / DO = détect. ouverture</text>
+<text x="915" y="494" font-size="15" font-weight="bold">CIRCUITS DU TABLEAU</text>
+<text x="915" y="514" font-size="11" font-weight="bold" fill="#C00000">ID1 40A A</text>
+<text x="915" y="529" font-size="10.5"><tspan font-weight="bold">1</tspan>  Éclairage jour + bibliothèque – 10A</text>
+<text x="915" y="543" font-size="10.5"><tspan font-weight="bold">2</tspan>  Éclairage nuit – 10A</text>
+<text x="915" y="557" font-size="10.5"><tspan font-weight="bold">3</tspan>  Prises séjour – 20A</text>
+<text x="915" y="571" font-size="10.5"><tspan font-weight="bold">4</tspan>  Prises chambres 1 et 2 – 16A</text>
+<text x="915" y="585" font-size="10.5"><tspan font-weight="bold">5</tspan>  Volets roulants – 16A</text>
+<text x="915" y="599" font-size="10.5"><tspan font-weight="bold">6</tspan>  Stores – 16A</text>
+<text x="915" y="613" font-size="10.5"><tspan font-weight="bold">7</tspan>  Coffret communication – 16A</text>
+<text x="915" y="627" font-size="10.5"><tspan font-weight="bold">8</tspan>  Filtre à air – 2A</text>
+<text x="915" y="647" font-size="11" font-weight="bold" fill="#C00000">ID2 40A A</text>
+<text x="915" y="662" font-size="10.5"><tspan font-weight="bold">9</tspan>  Éclairage SDB, WC, buanderie – 10A</text>
+<text x="915" y="676" font-size="10.5"><tspan font-weight="bold">10</tspan>  Éclairage balcons – 10A</text>
+<text x="915" y="690" font-size="10.5"><tspan font-weight="bold">11</tspan>  Prises ch.3, hall, dég., dressing – 16A</text>
+<text x="915" y="704" font-size="10.5"><tspan font-weight="bold">12</tspan>  Prises SDB 1-2, buanderie – 16A</text>
+<text x="915" y="718" font-size="10.5"><tspan font-weight="bold">13</tspan>  Balcons : prises, brumi, ventilo – 16A</text>
+<text x="915" y="732" font-size="10.5"><tspan font-weight="bold">14</tspan>  Porte électrique WC – 16A</text>
+<text x="915" y="746" font-size="10.5"><tspan font-weight="bold">15</tspan>  Alarme / caméras – 16A</text>
+<text x="915" y="760" font-size="10.5"><tspan font-weight="bold">16</tspan>  Filtre à eau – 16A</text>
+<text x="915" y="780" font-size="11" font-weight="bold" fill="#C00000">ID3 40A A</text>
+<text x="915" y="795" font-size="10.5"><tspan font-weight="bold">17</tspan>  Prises cuisine + frigo – 20A</text>
+<text x="915" y="809" font-size="10.5"><tspan font-weight="bold">18</tspan>  Four – 20A</text>
+<text x="915" y="823" font-size="10.5"><tspan font-weight="bold">19</tspan>  Lave-vaisselle – 20A</text>
+<text x="915" y="837" font-size="10.5"><tspan font-weight="bold">20</tspan>  Congélateur (buanderie) – 20A</text>
+<text x="915" y="851" font-size="10.5"><tspan font-weight="bold">21</tspan>  Sèche-linge (buanderie) – 20A</text>
+<text x="915" y="865" font-size="10.5"><tspan font-weight="bold">22</tspan>  Hotte – 16A</text>
+<text x="915" y="879" font-size="10.5"><tspan font-weight="bold">23</tspan>  Cumulus (contacteur J/N) – 20A</text>
+<text x="1205" y="514" font-size="11" font-weight="bold" fill="#C00000">ID4 40A F</text>
+<text x="1205" y="529" font-size="10.5"><tspan font-weight="bold">24</tspan>  Plaque de cuisson – 32A</text>
+<text x="1205" y="543" font-size="10.5"><tspan font-weight="bold">25</tspan>  Lave-linge (buanderie) – 20A</text>
+<text x="1205" y="557" font-size="10.5"><tspan font-weight="bold">26</tspan>  Clim séjour – 20A</text>
+<text x="1205" y="571" font-size="10.5"><tspan font-weight="bold">27</tspan>  Clim chambre 1 – 20A</text>
+<text x="1205" y="585" font-size="10.5"><tspan font-weight="bold">28</tspan>  Clim chambre 2 – 20A</text>
+<text x="1205" y="599" font-size="10.5"><tspan font-weight="bold">29</tspan>  Clim chambre 3 – 20A</text>
+<text x="1205" y="619" font-size="11" font-weight="bold" fill="#C00000">ID5 63A A</text>
+<text x="1205" y="634" font-size="10.5"><tspan font-weight="bold">30</tspan>  Plancher séjour – 16A</text>
+<text x="1205" y="648" font-size="10.5"><tspan font-weight="bold">31</tspan>  Plancher cuisine – 16A</text>
+<text x="1205" y="662" font-size="10.5"><tspan font-weight="bold">32</tspan>  Plancher hall/dég. – 16A</text>
+<text x="1205" y="676" font-size="10.5"><tspan font-weight="bold">33</tspan>  Plancher buand./dressing – 16A</text>
+<text x="1205" y="696" font-size="11" font-weight="bold" fill="#C00000">ID6 63A A</text>
+<text x="1205" y="711" font-size="10.5"><tspan font-weight="bold">34</tspan>  Plancher chambre 1 – 16A</text>
+<text x="1205" y="725" font-size="10.5"><tspan font-weight="bold">35</tspan>  Plancher chambre 2 – 16A</text>
+<text x="1205" y="739" font-size="10.5"><tspan font-weight="bold">36</tspan>  Plancher chambre 3 – 16A</text>
+<text x="1205" y="753" font-size="10.5"><tspan font-weight="bold">37</tspan>  Plancher SDB 1 – 16A</text>
+<text x="1205" y="767" font-size="10.5"><tspan font-weight="bold">38</tspan>  Plancher SDB 2 – 16A</text>
+</svg>
