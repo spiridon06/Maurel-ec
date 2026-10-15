@@ -134,21 +134,18 @@
 <circle cx="703.0" cy="300.96" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
 <path d="M697.4,295.35999999999996 L708.6,306.56 M697.4,306.56 L708.6,295.35999999999996" stroke="#E08A00" stroke-width="2"/>
 <text x="699.0" y="322.96" font-size="10" font-weight="bold" fill="#E08A00">9</text>
-<circle cx="471.79999999999995" cy="230.24" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
-<path d="M466.19999999999993,224.64000000000001 L477.4,235.84 M466.19999999999993,235.84 L477.4,224.64000000000001" stroke="#E08A00" stroke-width="2"/>
-<text x="481.79999999999995" y="223.24" font-size="10" font-weight="bold" fill="#E08A00">10</text>
-<circle cx="271.2" cy="1144.1599999999999" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
-<path d="M265.59999999999997,1138.56 L276.8,1149.7599999999998 M265.59999999999997,1149.7599999999998 L276.8,1138.56" stroke="#E08A00" stroke-width="2"/>
-<text x="281.2" y="1137.1599999999999" font-size="10" font-weight="bold" fill="#E08A00">10</text>
-<circle cx="641.8000000000001" cy="1144.1599999999999" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
-<path d="M636.2,1138.56 L647.4000000000001,1149.7599999999998 M636.2,1149.7599999999998 L647.4000000000001,1138.56" stroke="#E08A00" stroke-width="2"/>
-<text x="651.8000000000001" y="1137.1599999999999" font-size="10" font-weight="bold" fill="#E08A00">10</text>
+<rect x="446.79999999999995" y="220.2" width="50" height="16" rx="2" fill="#fff" stroke="#E08A00" stroke-width="1.6"/>
+<text x="471.79999999999995" y="232.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#E08A00">ATT. 10</text>
+<rect x="246.2" y="1136.1599999999999" width="50" height="16" rx="2" fill="#fff" stroke="#E08A00" stroke-width="1.6"/>
+<text x="271.2" y="1148.1599999999999" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#E08A00">ATT. 10</text>
+<rect x="616.8000000000001" y="1136.1599999999999" width="50" height="16" rx="2" fill="#fff" stroke="#E08A00" stroke-width="1.6"/>
+<text x="641.8000000000001" y="1148.1599999999999" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#E08A00">ATT. 10</text>
 <rect x="487.44" y="836.8" width="21.76" height="176.8" fill="#E08A00" fill-opacity="0.15" stroke="#E08A00" stroke-width="1.5" stroke-dasharray="6 3"/>
 <text x="517.3599999999999" y="898.0" font-size="10" fill="#E08A00" font-weight="bold">BIBLIOTHÈQUE (1)</text>
 <text x="517.3599999999999" y="910.0" font-size="9" fill="#E08A00">spots OU ruban LED</text>
 <text x="517.3599999999999" y="921.0" font-size="9" fill="#E08A00">emplacement à définir</text>
 <circle cx="492.2" cy="816.4000000000001" r="4.5" fill="#E08A00"/><line x1="492.2" y1="816.4000000000001" x2="500.2" y2="808.4000000000001" stroke="#E08A00" stroke-width="2"/>
-<text x="499.2" y="810.4000000000001" font-size="10" font-weight="bold" fill="#E08A00">1 var.</text>
+<text x="499.2" y="810.4000000000001" font-size="10" font-weight="bold" fill="#E08A00">1 var. Netatmo</text>
 <circle cx="519.4" cy="708.9599999999999" r="4.5" fill="#E08A00"/><line x1="519.4" y1="708.9599999999999" x2="527.4" y2="700.9599999999999" stroke="#E08A00" stroke-width="2"/>
 <text x="521.4" y="726.9599999999999" font-size="10" font-weight="bold" fill="#E08A00">1</text>
 <circle cx="536.4" cy="708.9599999999999" r="4.5" fill="#E08A00"/><line x1="536.4" y1="708.9599999999999" x2="544.4" y2="700.9599999999999" stroke="#E08A00" stroke-width="2"/>
@@ -197,9 +194,6 @@
 <circle cx="490.84" cy="1074.8" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="484.84" y1="1074.8" x2="496.84" y2="1074.8" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="498.84" y="1068.8" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
-<circle cx="577.1999999999999" cy="1110.1599999999999" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="571.1999999999999" y1="1110.1599999999999" x2="583.1999999999999" y2="1110.1599999999999" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="585.1999999999999" y="1104.1599999999999" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
 <circle cx="772.3600000000001" cy="1020.4000000000001" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="766.3600000000001" y1="1020.4000000000001" x2="778.3600000000001" y2="1020.4000000000001" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="780.3600000000001" y="1014.4000000000001" font-size="10" font-weight="bold" fill="#1F5FBF">3</text>
@@ -218,9 +212,6 @@
 <circle cx="283.43999999999994" cy="306.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="277.43999999999994" y1="306.4" x2="289.43999999999994" y2="306.4" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="291.43999999999994" y="300.4" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
-<circle cx="283.43999999999994" cy="462.79999999999995" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="277.43999999999994" y1="462.79999999999995" x2="289.43999999999994" y2="462.79999999999995" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="291.43999999999994" y="456.79999999999995" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
 <circle cx="466.35999999999996" cy="483.20000000000005" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="460.35999999999996" y1="483.20000000000005" x2="472.35999999999996" y2="483.20000000000005" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="474.35999999999996" y="477.20000000000005" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
@@ -233,15 +224,9 @@
 <circle cx="258.96" cy="1054.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="252.95999999999998" y1="1054.4" x2="264.96" y2="1054.4" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="266.96" y="1048.4" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
-<circle cx="128.4" cy="852.44" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="122.4" y1="852.44" x2="134.4" y2="852.44" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="136.4" y="846.44" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
 <circle cx="69.24" cy="928.5999999999999" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="63.239999999999995" y1="928.5999999999999" x2="75.24" y2="928.5999999999999" stroke="#fff" stroke-width="1.5"/>
 <text x="77.24" y="922.5999999999999" font-size="10" font-weight="bold" fill="#1F5FBF">4</text>
-<circle cx="283.43999999999994" cy="932.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="277.43999999999994" y1="932.0" x2="289.43999999999994" y2="932.0" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="291.43999999999994" y="926.0" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
 <circle cx="283.43999999999994" cy="1068.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="277.43999999999994" y1="1068.0" x2="289.43999999999994" y2="1068.0" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="291.43999999999994" y="1062.0" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
@@ -257,24 +242,12 @@
 <circle cx="330.36" cy="694.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="324.36" y1="694.0" x2="336.36" y2="694.0" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="312.36" y="688.0" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
-<circle cx="259.64" cy="756.56" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="253.64" y1="756.56" x2="265.64" y2="756.56" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="241.64" y="760.56" font-size="10" font-weight="bold" fill="#1F5FBF">11</text>
-<circle cx="466.35999999999996" cy="728.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="460.35999999999996" y1="728.0" x2="472.35999999999996" y2="728.0" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="446.35999999999996" y="722.0" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
 <circle cx="466.35999999999996" cy="802.8" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="460.35999999999996" y1="802.8" x2="472.35999999999996" y2="802.8" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="446.35999999999996" y="796.8" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
-<circle cx="69.24" cy="724.5999999999999" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="63.239999999999995" y1="724.5999999999999" x2="75.24" y2="724.5999999999999" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="77.24" y="718.5999999999999" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
-<circle cx="162.4" cy="826.5999999999999" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="156.4" y1="826.5999999999999" x2="168.4" y2="826.5999999999999" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="142.4" y="820.5999999999999" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
-<circle cx="738.3600000000001" cy="306.4" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="732.3600000000001" y1="306.4" x2="744.3600000000001" y2="306.4" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="718.3600000000001" y="300.4" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
+<circle cx="69.24" cy="768.8" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="63.239999999999995" y1="768.8" x2="75.24" y2="768.8" stroke="#1F5FBF" stroke-width="1.5"/>
+<text x="77.24" y="762.8" font-size="10" font-weight="bold" fill="#1F5FBF">12</text>
 <circle cx="622.76" cy="371.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
 <line x1="616.76" y1="371.0" x2="628.76" y2="371.0" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="634.76" y="375.0" font-size="10" font-weight="bold" fill="#1F5FBF">17</text>
@@ -299,7 +272,6 @@
 <path d="M277.43999999999994,393.0 L289.43999999999994,393.0 L283.43999999999994,382.0 Z" fill="#757575"/>
 <path d="M63.239999999999995,971.0 L75.24,971.0 L69.24,960.0 Z" fill="#757575"/>
 <path d="M460.35999999999996,1018.5999999999999 L472.35999999999996,1018.5999999999999 L466.35999999999996,1007.5999999999999 Z" fill="#757575"/>
-<path d="M484.84,369.2 L496.84,369.2 L490.84,358.2 Z" fill="#757575"/>
 <rect x="568.4000000000001" y="274.6" width="38" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
 <text x="587.4000000000001" y="286.6" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#7B2CBF">LV 19</text>
 <rect x="559.4000000000001" y="306.56" width="56" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
@@ -348,28 +320,14 @@
 <text x="570.4" y="1180.8" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">STORE 6</text>
 <rect x="484.2" y="179.4" width="50" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
 <text x="509.2" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">STORE 6</text>
-<rect x="725.6" y="794.8" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="750.6" y="806.8" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM 26</text>
-<rect x="349.56" y="288.2" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="374.56" y="300.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM 27</text>
-<rect x="76.19999999999999" y="1080.4" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="101.19999999999999" y="1092.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM 28</text>
-<rect x="409.4" y="1080.4" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="434.4" y="1092.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM 29</text>
-<rect x="117.0" y="1223.2" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="142.0" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">UE clim</text>
-<rect x="239.39999999999998" y="1223.2" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="264.4" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">UE clim</text>
-<rect x="361.79999999999995" y="1223.2" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="386.79999999999995" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">UE clim</text>
-<rect x="701.8000000000001" y="179.4" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="726.8000000000001" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">UE clim</text>
-<circle cx="482.0" cy="1139.4" r="6" fill="#fff" stroke="#5D4037" stroke-width="2"/>
-<line x1="476.0" y1="1139.4" x2="488.0" y2="1139.4" stroke="#5D4037" stroke-width="1.5"/>
-<text x="490.0" y="1133.4" font-size="10" font-weight="bold" fill="#5D4037">13</text>
-<circle cx="621.4000000000001" cy="230.24" r="6" fill="#fff" stroke="#5D4037" stroke-width="2"/>
-<line x1="615.4000000000001" y1="230.24" x2="627.4000000000001" y2="230.24" stroke="#5D4037" stroke-width="1.5"/>
-<text x="629.4000000000001" y="224.24" font-size="10" font-weight="bold" fill="#5D4037">13</text>
+<rect x="128.4" y="1223.2" width="68" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="162.4" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">ATT. UE 28</text>
+<rect x="339.2" y="1223.2" width="68" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="373.2" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">ATT. UE 29</text>
+<rect x="706.4000000000001" y="1223.2" width="68" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="740.4000000000001" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">ATT. UE 26</text>
+<rect x="692.8000000000001" y="179.4" width="68" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="726.8000000000001" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">ATT. UE 27</text>
 <rect x="508.4" y="1223.2" width="56" height="16" rx="2" fill="#fff" stroke="#5D4037" stroke-width="1.6"/>
 <text x="536.4" y="1235.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#5D4037">BRUMI 13</text>
 <rect x="618.0" y="1223.2" width="68" height="16" rx="2" fill="#fff" stroke="#5D4037" stroke-width="1.6"/>
@@ -378,24 +336,15 @@
 <text x="322.20000000000005" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#5D4037">BRUMI 13</text>
 <rect x="380.0" y="179.4" width="68" height="16" rx="2" fill="#fff" stroke="#5D4037" stroke-width="1.6"/>
 <text x="414.0" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#5D4037">VENTILO 13</text>
-<rect x="558.1999999999999" y="720.0" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="577.1999999999999" y="732.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 30</text>
-<rect x="483.4" y="454.79999999999995" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="502.4" y="466.79999999999995" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 31</text>
-<rect x="299.79999999999995" y="553.4" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="318.79999999999995" y="565.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 32</text>
-<rect x="226.36" y="703.0" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="245.36" y="715.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 33</text>
-<rect x="282.79999999999995" y="471.79999999999995" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="301.79999999999995" y="483.79999999999995" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 34</text>
-<rect x="214.79999999999998" y="924.0" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="233.79999999999998" y="936.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 35</text>
-<rect x="354.2" y="866.2" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="373.2" y="878.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 36</text>
-<rect x="350.79999999999995" y="730.2" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="369.79999999999995" y="742.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 37</text>
-<rect x="129.8" y="706.4000000000001" width="38" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="148.8" y="718.4000000000001" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th 38</text>
+<text x="577.1999999999999" y="732.0" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 30</text>
+<text x="505.79999999999995" y="466.79999999999995" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 31</text>
+<text x="318.79999999999995" y="565.4" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 32</text>
+<text x="245.36" y="715.0" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 33</text>
+<text x="301.79999999999995" y="483.79999999999995" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 34</text>
+<text x="233.79999999999998" y="936.0" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 35</text>
+<text x="373.2" y="878.2" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 36</text>
+<text x="369.79999999999995" y="742.2" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 37</text>
+<text x="148.8" y="718.4000000000001" font-size="10" font-weight="bold" text-anchor="middle" fill="#D32F2F">PCh 38</text>
 <rect x="563.8" y="662.2" width="20" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
 <text x="573.8" y="674.2" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">DF</text>
 <rect x="296.56" y="641.8" width="20" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
@@ -417,22 +366,21 @@
 <path d="M921.4,168.4 L932.6,179.6 M921.4,179.6 L932.6,168.4" stroke="#E08A00" stroke-width="2"/>
 <text x="937.0" y="167.0" font-size="10" font-weight="bold" fill="#E08A00"></text>
 <text x="955" y="178" font-size="11.5">Point lumineux DCL</text>
-<circle cx="927.0" cy="196.0" r="4.5" fill="#E08A00"/><line x1="927.0" y1="196.0" x2="935.0" y2="188.0" stroke="#E08A00" stroke-width="2"/>
-<text x="955" y="200" font-size="11.5">Interrupteur connecté Céliane with Netatmo (10/13 = cdes balcon)</text>
-<rect x="922.0" y="213.0" width="10" height="10" transform="rotate(45 927.0 218.0)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
-<text x="955" y="222" font-size="11.5">Commande sans fil (lit, D/A = Départ/Arrivée + volets, L/C = Lever/Coucher)</text>
-<circle cx="927.0" cy="240.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="921.0" y1="240.0" x2="933.0" y2="240.0" stroke="#1F5FBF" stroke-width="1.5"/>
-<text x="935.0" y="234.0" font-size="10" font-weight="bold" fill="#1F5FBF"></text>
-<text x="955" y="244" font-size="11.5">Prise 16 A 2P+T Céliane</text>
-<circle cx="927.0" cy="262.0" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
-<line x1="921.0" y1="262.0" x2="933.0" y2="262.0" stroke="#fff" stroke-width="1.5"/>
+<rect x="924.6" y="188.0" width="32" height="16" rx="2" fill="#fff" stroke="#E08A00" stroke-width="1.6"/>
+<text x="940.6" y="200.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#E08A00">ATT.</text>
+<text x="955" y="200" font-size="11.5">Éclairage balcon en attente (applique non fournie)</text>
+<circle cx="927.0" cy="218.0" r="4.5" fill="#E08A00"/><line x1="927.0" y1="218.0" x2="935.0" y2="210.0" stroke="#E08A00" stroke-width="2"/>
+<text x="955" y="222" font-size="11.5">Interrupteur connecté Céliane with Netatmo (10/13 = cdes balcon)</text>
+<rect x="922.0" y="235.0" width="10" height="10" transform="rotate(45 927.0 240.0)" fill="#fff" stroke="#E08A00" stroke-width="2"/>
+<text x="955" y="244" font-size="11.5">Commande sans fil (lit, D/A = Départ/Arrivée + volets, L/C = Lever/Coucher)</text>
+<circle cx="927.0" cy="262.0" r="6" fill="#fff" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="921.0" y1="262.0" x2="933.0" y2="262.0" stroke="#1F5FBF" stroke-width="1.5"/>
 <text x="935.0" y="256.0" font-size="10" font-weight="bold" fill="#1F5FBF"></text>
-<text x="955" y="266" font-size="11.5">Prise connectée Céliane with Netatmo</text>
-<circle cx="927.0" cy="284.0" r="6" fill="#fff" stroke="#5D4037" stroke-width="2"/>
-<line x1="921.0" y1="284.0" x2="933.0" y2="284.0" stroke="#5D4037" stroke-width="1.5"/>
-<text x="935.0" y="278.0" font-size="10" font-weight="bold" fill="#5D4037"></text>
-<text x="955" y="288" font-size="11.5">Prise étanche Plexo IP55 (balcons)</text>
+<text x="955" y="266" font-size="11.5">Prise 16 A 2P+T Céliane</text>
+<circle cx="927.0" cy="284.0" r="6" fill="#1F5FBF" stroke="#1F5FBF" stroke-width="2"/>
+<line x1="921.0" y1="284.0" x2="933.0" y2="284.0" stroke="#fff" stroke-width="1.5"/>
+<text x="935.0" y="278.0" font-size="10" font-weight="bold" fill="#1F5FBF"></text>
+<text x="955" y="288" font-size="11.5">Prise connectée Céliane with Netatmo</text>
 <path d="M921.0,311.0 L933.0,311.0 L927.0,300.0 Z" fill="#757575"/>
 <text x="955" y="310" font-size="11.5">Prise RJ45 grade 3TV</text>
 <rect x="927.2" y="320.0" width="20" height="16" rx="2" fill="#fff" stroke="#7B2CBF" stroke-width="1.6"/>
@@ -440,64 +388,61 @@
 <text x="955" y="332" font-size="11.5">Prise spécialisée / sortie de câble</text>
 <rect x="927.2" y="342.0" width="20" height="16" rx="2" fill="#fff" stroke="#1E8E3E" stroke-width="1.6"/>
 <text x="937.2" y="354.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E8E3E">VR</text>
-<text x="955" y="354" font-size="11.5">Volet roulant / store connecté (alim + cde Céliane)</text>
-<rect x="924.6" y="364.0" width="32" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
-<text x="940.6" y="376.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">CLIM</text>
-<text x="955" y="376" font-size="11.5">Clim réversible (UE = unité extérieure)</text>
-<rect x="924.8000000000001" y="386.0" width="18" height="16" rx="2" fill="#fff" stroke="#D32F2F" stroke-width="1.6"/>
-<text x="933.8000000000001" y="398.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#D32F2F">Th</text>
-<text x="955" y="398" font-size="11.5">Thermostat connecté plancher chauffant</text>
-<rect x="915" y="409" width="24" height="14" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-dasharray="5 4"/>
-<text x="955" y="420" font-size="11.5">Zone de plancher chauffant électrique</text>
-<rect x="923.8000000000001" y="430.0" width="20" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
-<text x="933.8000000000001" y="442.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">DF</text>
-<text x="955" y="442" font-size="11.5">Détecteur de fumée connecté (pile)</text>
-<rect x="927.6" y="452.0" width="26" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
-<text x="940.6" y="464.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM</text>
-<text x="955" y="464" font-size="11.5">Caméra / SIR = sirène / DO = détect. ouverture</text>
-<text x="915" y="494" font-size="15" font-weight="bold">CIRCUITS DU TABLEAU</text>
-<text x="915" y="514" font-size="11" font-weight="bold" fill="#C00000">ID1 40A A</text>
-<text x="915" y="529" font-size="10.5"><tspan font-weight="bold">1</tspan>  Éclairage jour + bibliothèque – 10A</text>
-<text x="915" y="543" font-size="10.5"><tspan font-weight="bold">2</tspan>  Éclairage nuit – 10A</text>
-<text x="915" y="557" font-size="10.5"><tspan font-weight="bold">3</tspan>  Prises séjour – 20A</text>
-<text x="915" y="571" font-size="10.5"><tspan font-weight="bold">4</tspan>  Prises chambres 1 et 2 – 16A</text>
-<text x="915" y="585" font-size="10.5"><tspan font-weight="bold">5</tspan>  Volets roulants – 16A</text>
-<text x="915" y="599" font-size="10.5"><tspan font-weight="bold">6</tspan>  Stores – 16A</text>
-<text x="915" y="613" font-size="10.5"><tspan font-weight="bold">7</tspan>  Coffret communication – 16A</text>
-<text x="915" y="627" font-size="10.5"><tspan font-weight="bold">8</tspan>  Filtre à air – 2A</text>
-<text x="915" y="647" font-size="11" font-weight="bold" fill="#C00000">ID2 40A A</text>
-<text x="915" y="662" font-size="10.5"><tspan font-weight="bold">9</tspan>  Éclairage SDB, WC, buanderie – 10A</text>
-<text x="915" y="676" font-size="10.5"><tspan font-weight="bold">10</tspan>  Éclairage balcons – 10A</text>
-<text x="915" y="690" font-size="10.5"><tspan font-weight="bold">11</tspan>  Prises ch.3, hall, dég., dressing – 16A</text>
-<text x="915" y="704" font-size="10.5"><tspan font-weight="bold">12</tspan>  Prises SDB 1-2, buanderie – 16A</text>
-<text x="915" y="718" font-size="10.5"><tspan font-weight="bold">13</tspan>  Balcons : prises, brumi, ventilo – 16A</text>
-<text x="915" y="732" font-size="10.5"><tspan font-weight="bold">14</tspan>  Porte électrique WC – 16A</text>
-<text x="915" y="746" font-size="10.5"><tspan font-weight="bold">15</tspan>  Alarme / caméras – 16A</text>
-<text x="915" y="760" font-size="10.5"><tspan font-weight="bold">16</tspan>  Filtre à eau – 16A</text>
-<text x="915" y="780" font-size="11" font-weight="bold" fill="#C00000">ID3 40A A</text>
-<text x="915" y="795" font-size="10.5"><tspan font-weight="bold">17</tspan>  Prises cuisine + frigo – 20A</text>
-<text x="915" y="809" font-size="10.5"><tspan font-weight="bold">18</tspan>  Four – 20A</text>
-<text x="915" y="823" font-size="10.5"><tspan font-weight="bold">19</tspan>  Lave-vaisselle – 20A</text>
-<text x="915" y="837" font-size="10.5"><tspan font-weight="bold">20</tspan>  Congélateur (buanderie) – 20A</text>
-<text x="915" y="851" font-size="10.5"><tspan font-weight="bold">21</tspan>  Sèche-linge (buanderie) – 20A</text>
-<text x="915" y="865" font-size="10.5"><tspan font-weight="bold">22</tspan>  Hotte – 16A</text>
-<text x="915" y="879" font-size="10.5"><tspan font-weight="bold">23</tspan>  Cumulus (contacteur J/N) – 20A</text>
-<text x="1205" y="514" font-size="11" font-weight="bold" fill="#C00000">ID4 40A F</text>
-<text x="1205" y="529" font-size="10.5"><tspan font-weight="bold">24</tspan>  Plaque de cuisson – 32A</text>
-<text x="1205" y="543" font-size="10.5"><tspan font-weight="bold">25</tspan>  Lave-linge (buanderie) – 20A</text>
-<text x="1205" y="557" font-size="10.5"><tspan font-weight="bold">26</tspan>  Clim séjour – 20A</text>
-<text x="1205" y="571" font-size="10.5"><tspan font-weight="bold">27</tspan>  Clim chambre 1 – 20A</text>
-<text x="1205" y="585" font-size="10.5"><tspan font-weight="bold">28</tspan>  Clim chambre 2 – 20A</text>
-<text x="1205" y="599" font-size="10.5"><tspan font-weight="bold">29</tspan>  Clim chambre 3 – 20A</text>
-<text x="1205" y="619" font-size="11" font-weight="bold" fill="#C00000">ID5 63A A</text>
-<text x="1205" y="634" font-size="10.5"><tspan font-weight="bold">30</tspan>  Plancher séjour – 16A</text>
-<text x="1205" y="648" font-size="10.5"><tspan font-weight="bold">31</tspan>  Plancher cuisine – 16A</text>
-<text x="1205" y="662" font-size="10.5"><tspan font-weight="bold">32</tspan>  Plancher hall/dég. – 16A</text>
-<text x="1205" y="676" font-size="10.5"><tspan font-weight="bold">33</tspan>  Plancher buand./dressing – 16A</text>
-<text x="1205" y="696" font-size="11" font-weight="bold" fill="#C00000">ID6 63A A</text>
-<text x="1205" y="711" font-size="10.5"><tspan font-weight="bold">34</tspan>  Plancher chambre 1 – 16A</text>
-<text x="1205" y="725" font-size="10.5"><tspan font-weight="bold">35</tspan>  Plancher chambre 2 – 16A</text>
-<text x="1205" y="739" font-size="10.5"><tspan font-weight="bold">36</tspan>  Plancher chambre 3 – 16A</text>
-<text x="1205" y="753" font-size="10.5"><tspan font-weight="bold">37</tspan>  Plancher SDB 1 – 16A</text>
-<text x="1205" y="767" font-size="10.5"><tspan font-weight="bold">38</tspan>  Plancher SDB 2 – 16A</text>
+<text x="955" y="354" font-size="11.5">Volet / store – commande Céliane with Netatmo</text>
+<rect x="915.6" y="364.0" width="50" height="16" rx="2" fill="#fff" stroke="#0097A7" stroke-width="1.6"/>
+<text x="940.6" y="376.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#0097A7">ATT. UE</text>
+<text x="955" y="376" font-size="11.5">Alim. en attente à côté de l'unité extérieure de clim</text>
+<rect x="915" y="387" width="24" height="14" fill="#D32F2F" fill-opacity="0.05" stroke="#D32F2F" stroke-dasharray="5 4"/>
+<text x="955" y="398" font-size="11.5">Zone plancher chauffant – PCh = alimentation en attente</text>
+<rect x="923.8000000000001" y="408.0" width="20" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="933.8000000000001" y="420.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">DF</text>
+<text x="955" y="420" font-size="11.5">Détecteur de fumée connecté (pile)</text>
+<rect x="927.6" y="430.0" width="26" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
+<text x="940.6" y="442.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM</text>
+<text x="955" y="442" font-size="11.5">Caméra / SIR = sirène / DO = détect. ouverture</text>
+<text x="915" y="472" font-size="15" font-weight="bold">CIRCUITS DU TABLEAU</text>
+<text x="915" y="492" font-size="11" font-weight="bold" fill="#C00000">ID1 40A A</text>
+<text x="915" y="507" font-size="10.5"><tspan font-weight="bold">1</tspan>  Éclairage jour + bibliothèque – 10A</text>
+<text x="915" y="521" font-size="10.5"><tspan font-weight="bold">2</tspan>  Éclairage nuit – 10A</text>
+<text x="915" y="535" font-size="10.5"><tspan font-weight="bold">3</tspan>  Prises séjour – 20A</text>
+<text x="915" y="549" font-size="10.5"><tspan font-weight="bold">4</tspan>  Prises chambres 1 et 2 – 16A</text>
+<text x="915" y="563" font-size="10.5"><tspan font-weight="bold">5</tspan>  Volets roulants – 16A</text>
+<text x="915" y="577" font-size="10.5"><tspan font-weight="bold">6</tspan>  Stores – 16A</text>
+<text x="915" y="591" font-size="10.5"><tspan font-weight="bold">7</tspan>  Coffret communication – 16A</text>
+<text x="915" y="605" font-size="10.5"><tspan font-weight="bold">8</tspan>  Filtre à air – 2A</text>
+<text x="915" y="625" font-size="11" font-weight="bold" fill="#C00000">ID2 40A A</text>
+<text x="915" y="640" font-size="10.5"><tspan font-weight="bold">9</tspan>  Éclairage SDB, WC, buanderie – 10A</text>
+<text x="915" y="654" font-size="10.5"><tspan font-weight="bold">10</tspan>  Éclairage balcons – 10A</text>
+<text x="915" y="668" font-size="10.5"><tspan font-weight="bold">11</tspan>  Prises ch.3, hall, dégagement – 16A</text>
+<text x="915" y="682" font-size="10.5"><tspan font-weight="bold">12</tspan>  Prises SDB 1 et 2 – 16A</text>
+<text x="915" y="696" font-size="10.5"><tspan font-weight="bold">13</tspan>  Balcons : brumi, ventilo – 16A</text>
+<text x="915" y="710" font-size="10.5"><tspan font-weight="bold">14</tspan>  Porte électrique WC – 16A</text>
+<text x="915" y="724" font-size="10.5"><tspan font-weight="bold">15</tspan>  Alarme / caméras – 16A</text>
+<text x="915" y="738" font-size="10.5"><tspan font-weight="bold">16</tspan>  Filtre à eau – 16A</text>
+<text x="915" y="758" font-size="11" font-weight="bold" fill="#C00000">ID3 40A A</text>
+<text x="915" y="773" font-size="10.5"><tspan font-weight="bold">17</tspan>  Prises cuisine + frigo – 20A</text>
+<text x="915" y="787" font-size="10.5"><tspan font-weight="bold">18</tspan>  Four – 20A</text>
+<text x="915" y="801" font-size="10.5"><tspan font-weight="bold">19</tspan>  Lave-vaisselle – 20A</text>
+<text x="915" y="815" font-size="10.5"><tspan font-weight="bold">20</tspan>  Congélateur (buanderie) – 20A</text>
+<text x="915" y="829" font-size="10.5"><tspan font-weight="bold">21</tspan>  Sèche-linge (buanderie) – 20A</text>
+<text x="915" y="843" font-size="10.5"><tspan font-weight="bold">22</tspan>  Hotte – 16A</text>
+<text x="915" y="857" font-size="10.5"><tspan font-weight="bold">23</tspan>  Cumulus (contacteur J/N) – 20A</text>
+<text x="1205" y="492" font-size="11" font-weight="bold" fill="#C00000">ID4 40A F – clims : attentes UE</text>
+<text x="1205" y="507" font-size="10.5"><tspan font-weight="bold">24</tspan>  Plaque de cuisson – 32A</text>
+<text x="1205" y="521" font-size="10.5"><tspan font-weight="bold">25</tspan>  Lave-linge (buanderie) – 20A</text>
+<text x="1205" y="535" font-size="10.5"><tspan font-weight="bold">26</tspan>  Clim séjour – 20A</text>
+<text x="1205" y="549" font-size="10.5"><tspan font-weight="bold">27</tspan>  Clim chambre 1 – 20A</text>
+<text x="1205" y="563" font-size="10.5"><tspan font-weight="bold">28</tspan>  Clim chambre 2 – 20A</text>
+<text x="1205" y="577" font-size="10.5"><tspan font-weight="bold">29</tspan>  Clim chambre 3 – 20A</text>
+<text x="1205" y="597" font-size="11" font-weight="bold" fill="#C00000">ID5 63A A – attentes plancher</text>
+<text x="1205" y="612" font-size="10.5"><tspan font-weight="bold">30</tspan>  Plancher séjour – 16A</text>
+<text x="1205" y="626" font-size="10.5"><tspan font-weight="bold">31</tspan>  Plancher cuisine – 16A</text>
+<text x="1205" y="640" font-size="10.5"><tspan font-weight="bold">32</tspan>  Plancher hall/dég. – 16A</text>
+<text x="1205" y="654" font-size="10.5"><tspan font-weight="bold">33</tspan>  Plancher buand./dressing – 16A</text>
+<text x="1205" y="674" font-size="11" font-weight="bold" fill="#C00000">ID6 63A A – attentes plancher</text>
+<text x="1205" y="689" font-size="10.5"><tspan font-weight="bold">34</tspan>  Plancher chambre 1 – 16A</text>
+<text x="1205" y="703" font-size="10.5"><tspan font-weight="bold">35</tspan>  Plancher chambre 2 – 16A</text>
+<text x="1205" y="717" font-size="10.5"><tspan font-weight="bold">36</tspan>  Plancher chambre 3 – 16A</text>
+<text x="1205" y="731" font-size="10.5"><tspan font-weight="bold">37</tspan>  Plancher SDB 1 – 16A</text>
+<text x="1205" y="745" font-size="10.5"><tspan font-weight="bold">38</tspan>  Plancher SDB 2 – 16A</text>
 </svg>
