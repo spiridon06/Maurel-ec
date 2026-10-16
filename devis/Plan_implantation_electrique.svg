@@ -365,7 +365,6 @@
 <text x="740.4000000000001" y="1180.8" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM ext 15</text>
 <rect x="577.2" y="179.4" width="68" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
 <text x="611.2" y="191.4" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM ext 15</text>
-<text x="638.4000000000001" y="578.4" font-size="9" fill="#222222">DO</text>
 <rect x="900" y="125" width="575" height="1150" fill="#FAFAFA" stroke="#ccc"/>
 <text x="915" y="150" font-size="15" font-weight="bold">LÉGENDE</text>
 <circle cx="927.0" cy="174.0" r="8" fill="#fff" stroke="#E08A00" stroke-width="2"/>
@@ -409,7 +408,7 @@
 <text x="955" y="442" font-size="11.5">Détecteur de fumée connecté (pile)</text>
 <rect x="927.6" y="452.0" width="26" height="16" rx="2" fill="#fff" stroke="#222222" stroke-width="1.6"/>
 <text x="940.6" y="464.0" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#222222">CAM</text>
-<text x="955" y="464" font-size="11.5">Caméra / SIR = sirène / DO = détect. ouverture</text>
+<text x="955" y="464" font-size="11.5">Caméra / SIR = sirène</text>
 <text x="915" y="494" font-size="15" font-weight="bold">CIRCUITS DU TABLEAU</text>
 <text x="915" y="514" font-size="11" font-weight="bold" fill="#C00000">ID1 40A A</text>
 <text x="915" y="529" font-size="10.5"><tspan font-weight="bold">1</tspan>  Éclairage jour + bibliothèque – 10A</text>
