@@ -128,21 +128,20 @@ def applique(ax, x, y, face, label=None):
 
 
 def commande(ax, x, y, face, kind="S"):
-    """S simple, D double allumage, V va-et-vient, B bouton poussoir, L voyant."""
+    """S simple, D double allumage, V va-et-vient, B bouton poussoir, P étanche Plexo."""
+    col = "#0b7285" if kind == "P" else C_CMD
     o, n, t = frame(x, y, face)
     c = pt(o, n, t, 0.16)
     if kind == "B":
         ax.add_patch(Circle(c, 0.09, facecolor="white", edgecolor=C_CMD, lw=1.3, zorder=6))
         ax.add_patch(Circle(c, 0.035, facecolor=C_CMD, edgecolor=C_CMD, zorder=7))
         return c
-    ax.add_patch(Circle(c, 0.07, facecolor=C_CMD, edgecolor=C_CMD, zorder=6))
-    if kind == "L":
-        ax.add_patch(Circle(c, 0.035, facecolor="#ffd43b", edgecolor="none", zorder=7))
+    ax.add_patch(Circle(c, 0.07, facecolor=col, edgecolor=col, zorder=6))
     d = pt((0, 0), n, t, 0.17, 0.10)
-    lines = {"S": [0], "L": [0], "D": [-0.05, 0.05], "V": [0]}[kind]
+    lines = {"S": [0], "P": [0], "D": [-0.05, 0.05], "V": [0]}[kind]
     for s in lines:
         a = (c[0] + t[0] * s, c[1] + t[1] * s)
-        ax.plot([a[0], a[0] + d[0]], [a[1], a[1] + d[1]], color=C_CMD, lw=1.2, zorder=6)
+        ax.plot([a[0], a[0] + d[0]], [a[1], a[1] + d[1]], color=col, lw=1.2, zorder=6)
     if kind == "V":
         ax.plot([c[0], c[0] - d[0]], [c[1], c[1] - d[1]], color=C_CMD, lw=1.2, zorder=6)
     return c
@@ -150,11 +149,6 @@ def commande(ax, x, y, face, kind="S"):
 
 def link(ax, a, b):
     ax.plot([a[0], b[0]], [a[1], b[1]], color="#868e96", lw=0.7, ls=(0, (3, 2)), zorder=5)
-
-
-def daaf(ax, x, y):
-    ax.add_patch(Circle((x, y), 0.13, facecolor="white", edgecolor=C_TAB, lw=1.3, zorder=6))
-    ax.text(x, y, "D", color=C_TAB, fontsize=6, ha="center", va="center", fontweight="bold", zorder=7)
 
 
 # ---------------------------------------------------------------- plan
@@ -222,12 +216,11 @@ def draw_plan(ax):
     link(ax, v2, s2)
     specialise(ax, 10.2, 6.82, "S", "CLIM\n(exist.)")
 
-    # ---- BALCON : 1 PC étanche + 1 applique étanche, commande à voyant depuis le séjour
+    # ---- BALCON : 1 PC étanche + 1 applique étanche, interrupteur étanche Plexo sur le balcon
     prise(ax, 12.44, 6.62, "E", color="#0b7285", label="IP44")
     ap = (12.64, 4.62)
     applique(ax, 12.44, 4.62, "E", label="IP44")
-    lv = commande(ax, 12.44, 4.30, "W", "L")
-    link(ax, lv, ap)
+    link(ax, commande(ax, 11.64, 4.22, "E", "P"), ap)
 
     # ---- CHAMBRE 1 : 5 PC, 1 RJ45
     prise(ax, 0, 4.3, "E")
@@ -287,11 +280,9 @@ def draw_plan(ax):
     prise(ax, 5.22, 0.55, "E")
     prise(ax, 6.95, 2.42, "N")
 
-    # ---- DÉGAGEMENT : 1 PC, éclairage en va-et-vient, détecteur de fumée
+    # ---- DÉGAGEMENT : 1 PC, éclairage en va-et-vient
     d = (3.9, 3.0)
     lum(ax, *d)
-    daaf(ax, 4.7, 3.0)
-    ax.text(4.7, 2.75, "DAAF", fontsize=5, ha="center", color=C_TAB, zorder=7)
     vd1 = commande(ax, 5.22, 3.42, "W", "V")
     vd2 = commande(ax, 2.01, 2.45, "E", "V")
     link(ax, vd1, d)
@@ -343,9 +334,8 @@ def legend(ax):
         (lambda a, x, y: commande(a, x - 0.16, y, "E", "S"), "Interrupteur simple allumage"),
         (lambda a, x, y: commande(a, x - 0.16, y, "E", "D"), "Interrupteur double allumage"),
         (lambda a, x, y: commande(a, x - 0.16, y, "E", "V"), "Interrupteur va-et-vient"),
-        (lambda a, x, y: commande(a, x - 0.16, y, "E", "L"), "Interrupteur à voyant"),
+        (lambda a, x, y: commande(a, x - 0.16, y, "E", "P"), "Interrupteur étanche Plexo (balcon)"),
         (lambda a, x, y: commande(a, x - 0.16, y, "E", "B"), "Bouton poussoir (télérupteur)"),
-        (lambda a, x, y: daaf(a, x, y), "Détecteur de fumée (DAAF)"),
         (lambda a, x, y: a.add_patch(Rectangle((x - 0.15, y - 0.2), 0.3, 0.4, color=C_TAB)), "Tableau électrique / GTL"),
         (lambda a, x, y: link(a, (x - 0.3, y), (x + 0.3, y)), "Liaison commande → éclairage"),
     ]
@@ -392,13 +382,13 @@ PIECES = [
     ("Séjour", "8", "–", "2 + 1 TV", "2 DCL (va-et-vient)", "Alim. clim existante à vérifier"),
     ("Chambre 1", "5", "–", "1", "1 DCL", ""),
     ("Chambre 2", "5", "–", "1", "1 DCL", ""),
-    ("Cuisine", "6 (dont 4 sur plan de travail)", "Plaque 32A, four, LV, LL, frigo, hotte", "–", "1 DCL + plan de travail", "Positions selon plan cuisiniste"),
+    ("Cuisine", "6 (dont 4 sur plan de travail)", "Plaque 32A, four, LV, LL, frigo, hotte", "–", "1 DCL + plan de travail", "Implantation murale, sans îlot central"),
     ("Entrée / couloir", "2", "–", "–", "2 DCL (télérupteur, 3 BP)", "GTL : tableau + coffret com."),
-    ("Dégagement", "1", "–", "–", "1 DCL (va-et-vient)", "Détecteur de fumée"),
+    ("Dégagement", "1", "–", "–", "1 DCL (va-et-vient)", ""),
     ("Salle de bains", "1 (hors volumes)", "Sèche-serviettes", "–", "1 DCL + applique miroir", "Liaison équipotentielle"),
     ("WC", "–", "–", "–", "1 DCL", ""),
     ("Rangement", "–", "–", "–", "1 DCL", ""),
-    ("Balcon", "1 étanche IP44", "–", "–", "1 applique IP44 (voyant)", ""),
+    ("Balcon", "1 étanche IP44", "–", "–", "1 applique IP44", "Interrupteur étanche Plexo"),
     ("TOTAL", "29 prises", "8 circuits", "4 RJ45 + 1 TV", "13 points lumineux", ""),
 ]
 
